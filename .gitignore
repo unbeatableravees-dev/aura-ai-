@@ -1,0 +1,11 @@
+node_modules
+dist
+.env
+.iris-autostart
+.raf-autostart
+*.log
+.DS_Store
+out
+release
+release-exe
+android/gradle-8.14.3/
